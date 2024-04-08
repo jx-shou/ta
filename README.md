@@ -1,7 +1,7 @@
 
 ### Pattern Recognition Functions
-CDL2CROWS            Two Crows
-CDL3BLACKCROWS       Three Black Crows
+- CDL2CROWS            Two Crows
+- CDL3BLACKCROWS       Three Black Crows
 CDL3INSIDE           Three Inside Up/Down
 CDL3LINESTRIKE       Three-Line Strike
 CDL3OUTSIDE          Three Outside Up/Down
