@@ -44,7 +44,7 @@
 - CDLMATHOLD           Mat Hold                                  Mat
 - CDLMORNINGDOJISTAR   Morning Doji Star                         Morning_DJ_Star
 - CDLMORNINGSTAR       Morning Star                              Morning_Star
-- CDLONNECK            On-Neck Pattern
+- CDLONNECK            On-Neck Pattern                           Neck_On
 - CDLPIERCING          Piercing Pattern
 - CDLRICKSHAWMAN       Rickshaw Man
 - CDLRISEFALL3METHODS  Rising/Falling Three Methods
