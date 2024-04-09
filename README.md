@@ -1,10 +1,10 @@
 
 ### Pattern Recognition Functions
 - CDL2CROWS            Two Crows                                 Two_ROW
-- CDL3BLACKCROWS       Three Black Crows                         Three_Black_ROW
-- CDL3INSIDE           Three Inside Up/Down                      Three_Inside
+- CDL3BLACKCROWS       Three Black Crows                         Three_ROW_Black
+- CDL3INSIDE           Three Inside Up/Down                      Three_In_UD
 - CDL3LINESTRIKE       Three-Line Strike                         Three_Line
-- CDL3OUTSIDE          Three Outside Up/Down                     Three_Outside
+- CDL3OUTSIDE          Three Outside Up/Down                     Three_Out_UD
 - CDL3STARSINSOUTH     Three Stars In The South                  Three_Star
 - CDL3WHITESOLDIERS    Three Advancing White Soldiers            Three_White
 - CDLABANDONEDBABY     Abandoned Baby                            Baby
@@ -21,7 +21,7 @@
 - CDLENGULFING         Engulfing Pattern                         ENGU
 - CDLEVENINGDOJISTAR   Evening Doji Star                         Even_DJ_Star
 - CDLEVENINGSTAR       Evening Star                              Even_Star
-- CDLGAPSIDESIDEWHITE  Up/Down-gap side-by-side white lines      White_Line
+- CDLGAPSIDESIDEWHITE  Up/Down-gap side-by-side white lines      White_UD
 - CDLGRAVESTONEDOJI    Gravestone Doji                           DJ_STONE
 - CDLHAMMER            Hammer                                    Hammer
 - CDLHANGINGMAN        Hanging Man                               Hang_Man
@@ -31,7 +31,7 @@
 - CDLHIKKAKE           Hikkake Pattern                           AKE
 - CDLHIKKAKEMOD        Modified Hikkake Pattern                  AKE_Modify
 - CDLHOMINGPIGEON      Homing Pigeon                             HOMI
-- CDLIDENTICAL3CROWS   Identical Three Crows                     Three_ID_ROW
+- CDLIDENTICAL3CROWS   Identical Three Crows                     Three_ROW_ID
 - CDLINNECK            In-Neck Pattern                           Neck_In
 - CDLINVERTEDHAMMER    Inverted Hammer                           Hammer_Invert
 - CDLKICKING           Kicking                                   Kick
@@ -45,19 +45,19 @@
 - CDLMORNINGDOJISTAR   Morning Doji Star                         Morning_DJ_Star
 - CDLMORNINGSTAR       Morning Star                              Morning_Star
 - CDLONNECK            On-Neck Pattern                           Neck_On
-- CDLPIERCING          Piercing Pattern
-- CDLRICKSHAWMAN       Rickshaw Man
-- CDLRISEFALL3METHODS  Rising/Falling Three Methods
-- CDLSEPARATINGLINES   Separating Lines
-- CDLSHOOTINGSTAR      Shooting Star
-- CDLSHORTLINE         Short Line Candle
-- CDLSPINNINGTOP       Spinning Top
-- CDLSTALLEDPATTERN    Stalled Pattern
-- CDLSTICKSANDWICH     Stick Sandwich
-- CDLTAKURI            Takuri (Dragonfly Doji with very long lower shadow)
-- CDLTASUKIGAP         Tasuki Gap
-- CDLTHRUSTING         Thrusting Pattern
-- CDLTRISTAR           Tristar Pattern
-- CDLUNIQUE3RIVER      Unique 3 River
-- CDLUPSIDEGAP2CROWS   Upside Gap Two Crows
-- CDLXSIDEGAP3METHODS  Upside/Downside Gap Three Methods
+- CDLPIERCING          Piercing Pattern                          Pier
+- CDLRICKSHAWMAN       Rickshaw Man                              Rick_Man
+- CDLRISEFALL3METHODS  Rising/Falling Three Methods              Rise_Fall
+- CDLSEPARATINGLINES   Separating Lines                          Separat_Line
+- CDLSHOOTINGSTAR      Shooting Star                             Shoot_Star
+- CDLSHORTLINE         Short Line Candle                         Short_Line
+- CDLSPINNINGTOP       Spinning Top                              Spin_Top
+- CDLSTALLEDPATTERN    Stalled Pattern                           Stall
+- CDLSTICKSANDWICH     Stick Sandwich                            Sandwich
+- CDLTAKURI            Takuri (Dragonfly Doji with very long lower shadow)        Low_DJ_GO
+- CDLTASUKIGAP         Tasuki Gap                                GP_DJ_GO
+- CDLTHRUSTING         Thrusting Pattern                         Thrust
+- CDLTRISTAR           Tristar Pattern                           Tristar
+- CDLUNIQUE3RIVER      Unique 3 River                            River
+- CDLUPSIDEGAP2CROWS   Upside Gap Two Crows                      Two_ROW_Upside
+- CDLXSIDEGAP3METHODS  Upside/Downside Gap Three Methods         Three_UD_GP
