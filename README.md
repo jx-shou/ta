@@ -61,3 +61,64 @@
 - CDLUNIQUE3RIVER      Unique 3 River                            River
 - CDLUPSIDEGAP2CROWS   Upside Gap Two Crows                      Two_ROW_Upside
 - CDLXSIDEGAP3METHODS  Upside/Downside Gap Three Methods         Three_UD_GP
+
+### Volatility Indicators
+- ATR                  Average True Range                        TR_A  
+- NATR                 Normalized Average True Range             TR_NA
+- TRANGE               True Range                                TR
+
+### Volume Indicators
+- AD                   Chaikin A/D Line                          AD
+- ADOSC                Chaikin A/D Oscillator                    AD_O
+- OBV                  On Balance Volume                         BV
+
+### Momentum Indicators
+- ADX                  Average Directional Movement Index                           A_DM_I
+- ADXR                 Average Directional Movement Index Rating                    A_DM_R
+- APO                  Absolute Price Oscillator                                    ABS_PO
+- AROON                Aroon                                                        AROO
+- AROONOSC             Aroon Oscillator                                             AROO_O
+- BOP                  Balance Of Power                                             Balance_Power
+- CCI                  Commodity Channel Index                                      CC_I
+- CMO                  Chande Momentum Oscillator                                   CM_O
+- DX                   Directional Movement Index                                   DM_I
+- MACD                 Moving Average Convergence/Divergence                        MA_CD
+- MACDEXT              MACD with controllable MA type                               MA_CD_Ex
+- MACDFIX              Moving Average Convergence/Divergence Fix 12/26              /
+- MFI                  Money Flow Index                                             Money_Flow
+- MINUS_DI             Minus Directional Indicator                                  MIS_D
+- MINUS_DM             Minus Directional Movement                                   MIS_DM
+- MOM                  Momentum                                                     Moment
+- PLUS_DI              Plus Directional Indicator                                   Plus_D
+- PLUS_DM              Plus Directional Movement                                    Plus_DM
+- PPO                  Percentage Price Oscillator                                  PC_PO
+- ROC                  Rate of change : ((price/prevPrice)-1)*100                   ROC
+- ROCP                 Rate of change Percentage: (price-prevPrice)/prevPrice       ROC_PC
+- ROCR                 Rate of change ratio: (price/prevPrice)                      ROC_RT
+- ROCR100              Rate of change ratio 100 scale: (price/prevPrice)*100        ROC_SC
+- RSI                  Relative Strength Index                                      RS_I
+- STOCH                Stochastic                                                   STCH
+- STOCHF               Stochastic Fast                                              STCH_FS
+- STOCHRSI             Stochastic Relative Strength Index                           STCH_RS
+- TRIX                 1-day Rate-Of-Change (ROC) of a Triple Smooth EMA            ROC_EMA
+- ULTOSC               Ultimate Oscillator                                          UL_O
+- WILLR                Williams' %R                                                 WILL
+
+### Overlap Studies
+BBANDS               Bollinger Bands
+DEMA                 Double Exponential Moving Average
+EMA                  Exponential Moving Average
+HT_TRENDLINE         Hilbert Transform - Instantaneous Trendline
+KAMA                 Kaufman Adaptive Moving Average
+MA                   Moving average
+MAMA                 MESA Adaptive Moving Average
+MAVP                 Moving average with variable period
+MIDPOINT             MidPoint over period
+MIDPRICE             Midpoint Price over period
+SAR                  Parabolic SAR
+SAREXT               Parabolic SAR - Extended
+SMA                  Simple Moving Average
+T3                   Triple Exponential Moving Average (T3)
+TEMA                 Triple Exponential Moving Average
+TRIMA                Triangular Moving Average
+WMA                  Weighted Moving Average
